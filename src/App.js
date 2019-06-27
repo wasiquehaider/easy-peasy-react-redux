@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+// import "./App.css";
 import Todos from "./components/Todos";
 import AddTodo from "./components/AddTodo";
 import { StoreProvider, createStore } from "easy-peasy";
